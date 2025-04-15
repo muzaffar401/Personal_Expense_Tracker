@@ -1,7 +1,6 @@
-
 # Personal Expense Tracker
 
-![Expense Tracker Demo](https://via.placeholder.com/800x400?text=Expense+Tracker+Screenshot) <!-- Replace with actual screenshot -->
+![image](https://github.com/user-attachments/assets/3d185dd5-275f-4282-b920-7c7f12e7f11b)
 
 A Streamlit-based web application to track personal expenses with visualization and category management.
 
@@ -40,8 +39,8 @@ graph TD
 Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/expense-tracker.git
-cd expense-tracker
+git clone https://github.com/muzaffar401/Personal_Expense_Tracker.git
+cd Personal_Expense_Tracker
 ```
 
 Install required packages:
@@ -59,7 +58,7 @@ pip install streamlit pandas matplotlib
 ## Run the application
 
 ```bash
-streamlit run app.py
+streamlit run main
 ```
 
 ## Usage
