@@ -90,7 +90,7 @@ streamlit run main
 
 ```
 expense-tracker/
-├── app.py                # Main application code
+├── main.py                # Main application code
 ├── expenses.csv          # Expense data storage
 ├── categories.csv        # Category data storage
 ├── README.md             # Project documentation
